@@ -2,10 +2,10 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700"
+google_fonts = "family=Source+Serif+Pro"
 
 # Font families
-heading_font = "Noto Serif"
-body_font = "Noto Serif"
-nav_font = "Noto Serif"
-mono_font = "Noto Serif"
+heading_font = "Source Serif Pro"
+body_font = "Source Serif Pro"
+nav_font = "Source Serif Pro"
+mono_font = "Source Serif Pro"
