@@ -21,16 +21,16 @@ organizations:
 bio: My research interests include fiscal policy, DSGE modelling and financial frictions.
 
 interests:
-- Fiscal Policy 
+- Fiscal policy 
 - DSGE modelling
 - Macroeconomic uncertainty
-- Financial frictions in Small Open Economies
+- Financial frictions in small open economies
 
 education:
   courses:
-  - course: PhD in Economics
+  - course: Graduate program in Economics
     institution: Carlos III University of Madrid
-    year: ...
+    year: (current position)
   - course: MSc in Economics
     institution: Pontifical Catholic University of Chile
     year: 2015
