@@ -31,7 +31,7 @@ education:
   - course: PhD in Economics
     institution: Carlos III University of Madrid
     year: ...
-  - course: M.A. in Economics
+  - course: MSc in Economics
     institution: Pontifical Catholic University of Chile
     year: 2015
   - course: BSc in Economics
@@ -45,16 +45,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:carlosrojasquiroz@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/CarlosRojasQui3
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.es/citations?hl=es&user=0Dv_qroAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/carlosrojasquiroz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
