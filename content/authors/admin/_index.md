@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:carlosrojasquiroz@gmail.com".
+  link: "mailto:carojasq@eco.uc3m.es".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/CarlosRojasQui3
@@ -55,8 +55,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/carlosrojasquiroz
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
@@ -71,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a graduate student in the Master of Economic Analysis at Carlos III University of Madrid. Previously, I've worked as a Senior Economist in the Fiscal Council of Peru. 
+I'm a graduate student in the Master of Economic Analysis at Carlos III University of Madrid. Previously, I've worked as a Senior Economist at the Fiscal Council of Peru. 
 
 Here I upload documents about classes I've taught, my previous professional work and some research papers I've published in the last years.
