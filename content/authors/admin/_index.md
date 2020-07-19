@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Carlos Rojas Quiroz
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Carlos III University of Madrid
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include fiscal policy, DSGE modelling and financial frictions.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Fiscal Policy 
+- DSGE modelling
+- Macroeconomic uncertainty
+- Financial frictions in Small Open Economies
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Economics
+    institution: Carlos III University of Madrid
+    year: ...
+  - course: M.A. in Economics
+    institution: Pontifical Catholic University of Chile
+    year: 2015
+  - course: BSc in Economics
+    institution: National Agrarian University La Molina
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
