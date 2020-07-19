@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:carojasq@eco.uc3m.es".
+  link: mailto:carojasq@eco.uc3m.es
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/CarlosRojasQui3
