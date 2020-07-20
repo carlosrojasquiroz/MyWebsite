@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
-subtitle = ""
+subtitle = "Professional"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -24,13 +24,36 @@ date_format = "Jan 2006"
   location = "Lima"
   date_start = "2018-04-09"
   date_end = "2019-08-15"
-  description = """
-  Responsibilities included:
+  description = ""
   
-  * Public debt sustainability analysis (deterministic and stochastic)
-  * Modelling macroeconomic variables
-  * Writing Discussion Notes and Reports
-  """
+ [[experience]]
+  title = "Economist"
+  company = "National Council of Science, Technology and Technological Innovation"
+  company_url = "www.concytec.gob.pe"
+  location = "Lima"
+  date_start = "2016-07-15"
+  date_end = "2018-02-18"
+  description = ""
+  
+ [[experience]]
+  title = "Consultant"
+  company = "Ministry of Economy and Finance"
+  company_url = "www.mef.gob.pe"
+  location = "Lima"
+  date_start = "2016-02-06"
+  date_end = "2016-07-14"
+  description = ""
+  
+  [[experience]]
+  title = "Economist"
+  company = "Ministry of Economy and Finance"
+  company_url = "www.mef.gob.pe"
+  location = "Lima"
+  date_start = "2011-03-09"
+  date_end = "2014-02-15"
+  description = ""
+
+subtitle = "Academic"
 
 [[experience]]
   title = "Part-time Lecturer"
