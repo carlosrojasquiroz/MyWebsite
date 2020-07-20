@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   date_end = "2018-07-15"
   description = """Taught Introductory Macroeconomics, Macroeconomic Theory II and Dynamic Macroeconomics."""
   
-[experience]]
+[[experience]]
   title = "Teaching Asssistant"
   company = "National Agrarian University La Molina"
   company_url = ""
