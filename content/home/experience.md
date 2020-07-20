@@ -18,27 +18,44 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Senior Economist"
+  company = "Technical Secretariat at the Fiscal Council of Peru"
+  company_url = "www.cf.gob.pe"
+  location = "Lima"
+  date_start = "2018-04"
+  date_end = "2019-08"
   description = """
-  Responsibilities include:
+  Responsibilities included:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Public debt sustainability analysis (deterministic and stochastic)
+  * Modelling macroeconomic variables
+  * Writing Discussion Notes and Reports
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Part-time Lecturer"
+  company = "Peruvian University of Applied Sciences"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Lima"
+  date_start = "2017-08"
+  date_end = "2019-07"
+  description = """Taught Economic Growth Theory, Monetary Theory and Applied Macroeconomics."""
 
+[[experience]]
+  title = "Part-time Lecturer"
+  company = "National University of Engineering"
+  company_url = ""
+  location = "Lima"
+  date_start = "2016-08"
+  date_end = "2018-07"
+  description = """Taught Introductory Macroeconomics, Macroeconomic Theory II and Dynamic Macroeconomics."""
+  
+[experience]]
+  title = "Teaching Asssistant"
+  company = "National Agrarian University La Molina"
+  company_url = ""
+  location = "Lima"
+  date_start = "2010-08"
+  date_end = "2010-12"
+  description = """Taught Dynamic Macroeconomics."""  
 +++
