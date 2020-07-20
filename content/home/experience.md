@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
-subtitle = "Professional"
+title = "Professional experience"
+subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -53,32 +53,4 @@ date_format = "Jan 2006"
   date_end = "2014-02-15"
   description = ""
 
-subtitle = "Academic"
-
-[[experience]]
-  title = "Part-time Lecturer"
-  company = "Peruvian University of Applied Sciences"
-  company_url = ""
-  location = "Lima"
-  date_start = "2017-08-28"
-  date_end = "2019-07-15"
-  description = """Taught Economic Growth Theory, Monetary Theory and Applied Macroeconomics."""
-
-[[experience]]
-  title = "Part-time Lecturer"
-  company = "National University of Engineering"
-  company_url = ""
-  location = "Lima"
-  date_start = "2016-08-28"
-  date_end = "2018-07-15"
-  description = """Taught Introductory Macroeconomics, Macroeconomic Theory II and Dynamic Macroeconomics."""
-  
-[[experience]]
-  title = "Teaching Asssistant"
-  company = "National Agrarian University La Molina"
-  company_url = ""
-  location = "Lima"
-  date_start = "2010-08-28"
-  date_end = "2010-12-15"
-  description = """Taught Dynamic Macroeconomics."""  
 +++
