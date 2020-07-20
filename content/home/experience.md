@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   
  [[experience]]
   title = "Economist"
-  company = "National Council of Science, Technology and Technological Innovation"
+  company = "National Council of Science, Technology and Technological Innovation of Peru"
   company_url = "www.concytec.gob.pe"
   location = "Lima"
   date_start = "2016-07-15"
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   
  [[experience]]
   title = "Consultant"
-  company = "Ministry of Economy and Finance"
+  company = "Ministry of Economy and Finance of Peru"
   company_url = "www.mef.gob.pe"
   location = "Lima"
   date_start = "2016-02-06"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   
   [[experience]]
   title = "Economist"
-  company = "Ministry of Economy and Finance"
+  company = "Ministry of Economy and Finance of Peru"
   company_url = "www.mef.gob.pe"
   location = "Lima"
   date_start = "2011-03-09"
