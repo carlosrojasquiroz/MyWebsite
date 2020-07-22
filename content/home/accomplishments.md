@@ -41,11 +41,41 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Peruvian Government"
   organization_url = ""
-  title = "'Presidente de la Republica' scholarship recipient"
+  title = "'Presidente de la República' scholarship recipient"
   url = ""
   certificate_url = ""
   date_start = "2014-03-10"
   date_end = "2015-12-15"
   description = ""
 
+[[item]]
+  organization = "Pontifical Catholic University of Chile"
+  organization_url = ""
+  title = "Academic Excellence Prize"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-03-10"
+  date_end = "2015-12-15"
+  description = ""
+  
+[[item]]
+  organization = "Carlos III University of Madrid"
+  organization_url = ""
+  title = "Graduate scholarship recipient"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-09-15"
+  date_end = ""
+  description = ""  
+  
+ [[item]]
+  organization = "Inter-American Development Bank"
+  organization_url = ""
+  title = "Winner of the Network Project on Fiscal Rules and the Behaviour of Public Investment"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-07-15"
+  date_end = ""
+  description = ""   
+  
 +++
