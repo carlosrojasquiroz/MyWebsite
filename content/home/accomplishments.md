@@ -41,7 +41,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Peruvian Government"
   organization_url = ""
-  title = "Presidente de la Republica scholarship recipient"
+  title = "'Presidente de la Republica' scholarship recipient"
   url = ""
   certificate_url = ""
   date_start = "2014-03-10"
