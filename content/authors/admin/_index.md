@@ -14,7 +14,7 @@ role: Graduate student
 
 # Organizations/Affiliations
 organizations:
-- name: Carlos III University of Madrid
+- name: Universidad Carlos III de Madrid
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
