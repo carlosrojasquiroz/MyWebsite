@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2011-06-30"
-  date_end = "2011-06-30"
+  date_end = ""
   description = ""  
   
 [[item]]
@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   title = "'Presidente de la República' scholarship recipient"
   url = ""
   certificate_url = ""
-  date_start = "2014-03-10"
+  date_start = "2014-03-01"
   date_end = "2015-12-15"
   description = ""
 
@@ -73,7 +73,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2015-12-15"
-  date_end = "2015-12-15"
+  date_end = ""
   description = ""   
   
 [[item]]
