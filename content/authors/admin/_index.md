@@ -29,13 +29,13 @@ interests:
 education:
   courses:
   - course: Graduate program in Economics
-    institution: Carlos III University of Madrid
+    institution: Universidad Carlos III de Madrid
     year: (current position)
   - course: MSc in Economics
-    institution: Pontifical Catholic University of Chile
+    institution: Pontificia Universidad Católica de Chile
     year: 2015
   - course: BSc in Economics
-    institution: National Agrarian University La Molina
+    institution: Universidad Nacional Agraria La Molina
     year: 2011
 
 # Social/Academic Networking
@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a graduate student in the Master of Economic Analysis at Carlos III University of Madrid. Previously, I've worked as a Senior Economist at the Fiscal Council of Peru. 
+I'm a graduate student in the Master of Economic Analysis at Universidad Carlos III de Madrid. Previously, I've worked as a Senior Economist at the Fiscal Council of Peru. 
 
 Here I upload documents about classes I've taught, my previous professional work and some research papers I've published in the last years.
