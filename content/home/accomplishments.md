@@ -29,14 +29,22 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "National Agrarian University La Molina"
-  organization_url = ""
-  title = "Graduated with Honours"
+  organization = "Universidad Nacional Agraria La Molina"
+  title = "Graduated with Honors"
   url = ""
   certificate_url = ""
   date_start = "2006-03-15"
   date_end = "2011-06-30"
   description = ""
+  
+[[item]]
+  organization = "Universidad Nacional Agraria La Molina"
+  title = "Maximum Distinction for BSc Thesis"
+  url = ""
+  certificate_url = ""
+  date_start = "2011-06-30"
+  date_end = "2011-06-30"
+  description = ""  
   
 [[item]]
   organization = "Peruvian Government"
@@ -49,29 +57,39 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Pontifical Catholic University of Chile"
+  organization = "Pontificia Universidad Católica de Chile"
   organization_url = ""
-  title = "Academic Excellence Prize"
+  title = "Academic Excellence Award"
   url = ""
   certificate_url = ""
   date_start = "2014-03-10"
   date_end = "2015-12-15"
   description = ""
   
+ [[item]]
+  organization = "Pontificia Universidad Católica de Chile"
+  organization_url = ""
+  title = "Maximum Distinction for MSc Thesis"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-12-15"
+  date_end = "2015-12-15"
+  description = ""   
+  
 [[item]]
-  organization = "Carlos III University of Madrid"
+  organization = "Universidad Carlos III de Madrid"
   organization_url = ""
   title = "Graduate scholarship recipient"
   url = ""
   certificate_url = ""
   date_start = "2019-09-15"
   date_end = ""
-  description = ""  
+  description = ""   
   
  [[item]]
   organization = "Inter-American Development Bank"
   organization_url = ""
-  title = "Winner of the Network Project on Fiscal Rules and the Behaviour of Public Investment"
+  title = "Research Award of the Network Project on Fiscal Rules and the Behaviour of Public Investment"
   url = ""
   certificate_url = ""
   date_start = "2019-07-15"
