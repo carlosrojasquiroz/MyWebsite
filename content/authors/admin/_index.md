@@ -18,13 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include fiscal policy, DSGE modeling and financial frictions.
+bio: My research interests include fiscal policy, sovereign debt, and DSGE models.
 
 interests:
 - Fiscal policy 
-- DSGE modeling
-- Macroeconomic uncertainty
-- Financial frictions in small open economies
+- Sovereign debt
+- DSGE models
 
 education:
   courses:
@@ -69,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a graduate student in the Master of Economic Analysis (the first stage of the PhD program) at Universidad Carlos III de Madrid. Previously, I've worked as a Senior Economist at the Fiscal Council of Peru (2018-2020). 
+I'm a graduate student in the Master of Economic Analysis at Universidad Carlos III de Madrid. Previously, I've worked as a Senior Economist at the Fiscal Council of Peru (2018-2020). 
 
 Here I upload documents about classes I've taught, my previous professional work and some research papers I've published in the last years.
