@@ -19,7 +19,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include fiscal policy, sovereign debt, and DSGE models.
-
 interests:
 - Fiscal policy 
 - Sovereign debt
@@ -30,7 +29,7 @@ education:
   - course: Graduate program in Economics
     institution: Universidad Carlos III de Madrid
     year: (current position)
-  - course: MA in Economics
+  - course: MSc in Economics
     institution: Pontificia Universidad Católica de Chile
     year: 2015
   - course: BSc in Economics
@@ -73,4 +72,4 @@ user_groups:
 
 I'm a graduate student in the Master of Economic Analysis at Universidad Carlos III de Madrid. Previously, I worked as a Senior Economist at the Fiscal Council of Peru (2018-2020). 
 
-Here I upload documents about classes I've taught, my previous professional works, and some research papers I've published during the last years.
+Here I upload documents about classes I've taught, my previous professional works, and some research papers I've published during the last years. You may dowload my CV {{% staticref "files/cv_academic.pdf" "newtab" %}}here{{% /staticref %}}
