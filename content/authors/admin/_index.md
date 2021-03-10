@@ -25,7 +25,6 @@ interests:
 - DSGE models
 
 education:
-color=#2d4059
   courses:
   - course: Graduate program in Economics
     institution: Universidad Carlos III de Madrid
