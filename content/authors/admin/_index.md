@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a graduate student in the Master of Economic Analysis at Universidad Carlos III de Madrid. Previously, I've worked as a Senior Economist at the Fiscal Council of Peru (2018-2020). 
+I'm a graduate student in the Master of Economic Analysis at Universidad Carlos III de Madrid. Previously, I worked as a Senior Economist at the Fiscal Council of Peru (2018-2020). 
 
-Here I upload documents about classes I've taught, my previous professional work and some research papers I've published in the last years.
+Here I upload documents about classes I've taught, my previous professional works, and some research papers I've published during the last years.
