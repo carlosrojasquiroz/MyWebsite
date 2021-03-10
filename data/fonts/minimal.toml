@@ -2,10 +2,10 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
+google_fonts = "family=Libre+Baskerville" #"family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
 
 # Font families
-heading_font = "Montserrat"
-body_font = "Roboto"
-nav_font = "Roboto"
-mono_font = "Roboto Mono"
+heading_font = "Libre Baskerville" #"Montserrat"
+body_font = "Libre Baskerville" #"Roboto"
+nav_font = "Libre Baskerville" #"Roboto"
+mono_font = "Libre Baskerville" #"Roboto Mono"
