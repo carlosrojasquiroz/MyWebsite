@@ -72,4 +72,4 @@ user_groups:
 
 I'm a graduate student in the Master of Economic Analysis at Universidad Carlos III de Madrid. Previously, I worked as a Senior Economist at the Fiscal Council of Peru (2018-2020). 
 
-Here I upload documents about classes I've taught, my previous professional works, and some research papers I've published during the last years. You may dowload my CV {{% staticref "files/cv_academic.pdf" "newtab" %}}here{{% /staticref %}}
+Here I upload documents about classes I've taught, my previous professional works, and some research papers I've published during the last years. You may dowload my CV {{% staticref "files/cv_academic.pdf" "newtab" %}}here{{% /staticref %}}.
