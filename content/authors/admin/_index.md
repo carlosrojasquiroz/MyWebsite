@@ -76,3 +76,4 @@ You may download my CV {{% staticref "files/cv_academic.pdf" "newtab" %}}here{{%
 
 {{< figure src="img/DensityGDPpc.jpg" caption="A caption" >}}
 
+{{< figure src="img/Evolution_MPD_1820.eps" caption="A caption" >}}
