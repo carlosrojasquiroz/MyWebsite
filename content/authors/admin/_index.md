@@ -72,3 +72,6 @@ I'm a graduate student in the Master of Economic Analysis at Universidad Carlos 
 Here I upload documents about classes I've taught, my previous professional works, and some research papers I've published during the last years. 
 
 You may download my CV {{% staticref "files/cv_academic.pdf" "newtab" %}}here{{% /staticref %}}.
+
+
+{{< figure src="DensityGDPpc.eps" caption="A caption" >}}
