@@ -54,9 +54,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/carlosrojasquiroz
-- icon: cv
-  icon_pack: ai
-  link: files/cv_academic.pdf
+# - icon: cv
+#  icon_pack: ai
+#  link: files/cv_academic.pdf
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/carlos-rojas-quiroz-6b7737a0/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
