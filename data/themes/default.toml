@@ -5,16 +5,16 @@ name = "Default"
 light = true
 
 # Primary
-primary = "rgb(48,71,94)" #"#0095eb" #"#e21212" #{RGB}{48,71,94}
-primary_light = "#6ec6ff"
-primary_dark = "#e21212" #"#0069c0"
+primary = "#2d4059" #"#0095eb" #"#e21212" #{RGB}{48,71,94}
+primary_light = "#2d4059"
+primary_dark = "#ffffff" #"#0069c0"
 
 # Menu
-menu_primary = "#314e52"
-menu_text = "rgb(48,71,94)" #"#34495e"
-menu_text_active = "#f2a154"
-menu_title = "#f7f6e7" #"#2b2b2b" #{RGB}{234, 84, 85}
+menu_primary = "#c8c8c8"
+menu_text = "#30475e" #"#34495e"
+menu_text_active = "#ea5454"
+menu_title = "#2d4059" #"#2b2b2b" #{RGB}{234, 84, 85}
 
 # Home sections
-home_section_odd = "#e7e6e1" #"rgb(255, 255, 255)"
-home_section_even = "#e7e6e1" #"rgb(247, 247, 247)"
+home_section_odd = "#ffffff" #"rgb(255, 255, 255)"
+home_section_even = "#ffffff" #"rgb(247, 247, 247)"
