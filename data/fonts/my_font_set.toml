@@ -2,10 +2,10 @@
 name = "Default"
 
 # Optional Google font URL
-google_fonts = "family=Shippori+Mincho:wght@600"
+google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
 
 # Font families
-heading_font = "Shippori Mincho"
-body_font = "Shippori Mincho"
-nav_font = "Shippori Mincho"
-mono_font = "Shippori Mincho"
+heading_font = "Montserrat"
+body_font = "Roboto"
+nav_font = "Roboto"
+mono_font = "Roboto Mono"
