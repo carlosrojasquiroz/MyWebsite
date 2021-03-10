@@ -25,6 +25,7 @@ interests:
 - DSGE models
 
 education:
+color=#2d4059
   courses:
   - course: Graduate program in Economics
     institution: Universidad Carlos III de Madrid
@@ -53,9 +54,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/carlosrojasquiroz
-# - icon: cv
-#  icon_pack: ai
-#  link: files/cv_academic.pdf
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/carlos-rojas-quiroz-6b7737a0/
@@ -72,4 +70,6 @@ user_groups:
 
 I'm a graduate student in the Master of Economic Analysis at Universidad Carlos III de Madrid. Previously, I worked as a Senior Economist at the Fiscal Council of Peru (2018-2020). 
 
-Here I upload documents about classes I've taught, my previous professional works, and some research papers I've published during the last years. You may dowload my CV {{% staticref "files/cv_academic.pdf" "newtab" %}}here{{% /staticref %}}.
+Here I upload documents about classes I've taught, my previous professional works, and some research papers I've published during the last years. 
+
+You may dowload my CV {{% staticref "files/cv_academic.pdf" "newtab" %}}here{{% /staticref %}}.
