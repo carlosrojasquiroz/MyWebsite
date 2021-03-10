@@ -8,6 +8,7 @@ light = true
 primary = "#2d4059" #"#0095eb" #"#e21212" #{RGB}{48,71,94}
 primary_light = "#2d4059"
 primary_dark = "#ffffff" #"#0069c0"
+link = "#ea5454"
 
 # Menu
 menu_primary = "#ffffff"
