@@ -10,11 +10,11 @@ primary_light = "#6ec6ff"
 primary_dark = "#e21212" #"#0069c0"
 
 # Menu
-menu_primary = "rgb(48,71,94)"
+menu_primary = "#314e52"
 menu_text = "rgb(48,71,94)" #"#34495e"
-menu_text_active = "#0095eb"
-menu_title = "rgb(234,84,55)" #"#2b2b2b" #{RGB}{234, 84, 85}
+menu_text_active = "#f2a154"
+menu_title = "#f7f6e7" #"#2b2b2b" #{RGB}{234, 84, 85}
 
 # Home sections
 home_section_odd = "#e7e6e1" #"rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+home_section_even = "#e7e6e1" #"rgb(247, 247, 247)"
