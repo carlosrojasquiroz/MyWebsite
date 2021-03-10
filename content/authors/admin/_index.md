@@ -74,4 +74,4 @@ Here I upload documents about classes I've taught, my previous professional work
 You may download my CV {{% staticref "files/cv_academic.pdf" "newtab" %}}here{{% /staticref %}}.
 
 
-{{< figure src="DensityGDPpc.eps" caption="A caption" >}}
+{{< figure src="DensityGDPpc.jpg" caption="A caption" >}}
