@@ -5,7 +5,7 @@ name = "Source Serif Pro"
 google_fonts = "family=Shippori+Mincho:wght@600"
 
 # Font families
-heading_font = "Shippori+Mincho"
-body_font = "Shippori+Mincho"
-nav_font = "Shippori+Mincho"
-mono_font = "Shippori+Mincho"
+heading_font = "Shippori Mincho"
+body_font = "Shippori Mincho"
+nav_font = "Shippori Mincho"
+mono_font = "Shippori Mincho"
