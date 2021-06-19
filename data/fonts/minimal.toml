@@ -1,11 +1,11 @@
 # Font style metadata
-name = "Minimal"
+name = "minimal"
 
 # Optional Google font URL
-google_fonts = "family=Libre+Baskerville" #"family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
+google_fonts = "family=Benne" #"family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
 
 # Font families
-heading_font = "Libre Baskerville" #"Montserrat"
-body_font = "Libre Baskerville" #"Roboto"
-nav_font = "Libre Baskerville" #"Roboto"
-mono_font = "Libre Baskerville" #"Roboto Mono"
+heading_font = "Benne" #"Montserrat"
+body_font = "Benne" #"Roboto"
+nav_font = "Benne" #"Roboto"
+mono_font = "Benne" #"Roboto Mono"
