@@ -14,7 +14,7 @@ role: PhD Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: European University Institute 🇮🇹
+- name: European University Institute
   url: "https://www.eui.eu/en/academic-units/department-of-economics"
 
 # Short bio (displayed in user profile at end of posts)
