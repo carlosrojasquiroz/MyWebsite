@@ -8,12 +8,12 @@ light = true
 primary = "#2d4059" #"#0095eb" #"#e21212" #{RGB}{48,71,94}
 primary_light = "#2d4059"
 primary_dark = "#ffffff" #"#0069c0"
-link = "#ea5454"
+link = "#549DEA"
 
 # Menu
 menu_primary = "#ffffff"
 menu_text = "#30475e" #"#34495e"
-menu_text_active = "#ea5454"
+menu_text_active = "#549DEA"
 menu_title = "#2d4059" #"#2b2b2b" #{RGB}{234, 84, 85}
 
 # Home sections
