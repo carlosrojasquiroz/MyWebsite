@@ -69,4 +69,4 @@ user_groups:
 
 I'm a first-year PhD Researcher in the Department of Economics at the European University Institute (EUI) in Florence, Italy. Before joining EUI, I attended the Master in Economic Analysis at Universidad Carlos III de Madrid. 
 
-You may download my CV {{% staticref "files/cv_academic.pdf" "newtab" %}}here{{% /staticref %}}.
+You may download my CV {{% staticref "files/cv_CRQ_2021.pdf" "newtab" %}}here{{% /staticref %}}.
