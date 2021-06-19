@@ -2,10 +2,10 @@
 name = "my_font"
 
 # Optional Google font URL
-google_fonts = "Noto+Serif" #"family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
+google_fonts = "Benne" #"family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
 
 # Font families
-heading_font = "Noto Serif" #"Montserrat"
-body_font = "Noto Serif" #"Roboto"
-nav_font = "Noto Serif" #"Roboto"
-mono_font = "Noto Serif" #"Roboto Mono"
+heading_font = "Benne" #"Montserrat"
+body_font = "Benne" #"Roboto"
+nav_font = "Benne" #"Roboto"
+mono_font = "Benne" #"Roboto Mono"
