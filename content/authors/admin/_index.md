@@ -10,25 +10,25 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate student
+role: PhD Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Carlos III de Madrid
-  url: ""
+- name: European University Institute 🇮🇹
+  url: "https://www.eui.eu/en/academic-units/department-of-economics"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include fiscal policy, sovereign debt, and DSGE models.
 interests:
-- Fiscal policy 
-- Sovereign debt
+- Monetary and fiscal policy 
+- Sovereign debt models
 - DSGE models
 
 education:
   courses:
-  - course: Graduate program in Economics
+  - course: Master in Economic Analysis
     institution: Universidad Carlos III de Madrid
-    year: (current position)
+    year: 2021
   - course: MSc in Economics
     institution: Pontificia Universidad Católica de Chile
     year: 2015
