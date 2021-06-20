@@ -18,10 +18,10 @@ organizations:
   url: "https://www.eui.eu/en/academic-units/department-of-economics"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include fiscal policy, sovereign debt, and DSGE models.
+bio: My research interests include monetary and fiscal policy, sovereign debt, and DSGE models.
 interests:
 - Monetary and fiscal policy 
-- Sovereign debt models
+- Sovereign debt
 - DSGE models
 
 education:
@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a first-year PhD Researcher in the Department of Economics at the European University Institute (EUI) in Florence, Italy. Before joining EUI, I attended the Master in Economic Analysis at Universidad Carlos III de Madrid. 
+I am a first-year PhD Researcher in the Department of Economics at the European University Institute (EUI) in Florence, Italy. Before joining EUI, I attended the Master in Economic Analysis at Universidad Carlos III de Madrid. 
 
 You may download my CV {{% staticref "files/cv_CRQ_2021.pdf" "newtab" %}}here{{% /staticref %}}.
