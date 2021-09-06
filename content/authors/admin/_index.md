@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:carojasq@eco.uc3m.es
+  link: mailto:carlos.rojasquiroz@eui.eu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/CarlosRojasQui3
